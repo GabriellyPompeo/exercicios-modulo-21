@@ -1,0 +1,26 @@
+{
+  "name": "exercicios-modulo-21",
+  "version": "1.0.0",
+  "description": "Repositório para resolução do exercício do módulo 21 do curso de Engenharia de Qualidade de Software, da EBAC",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabriellyPompeo/exercicios-modulo-21.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabriellyPompeo/exercicios-modulo-21/issues"
+  },
+  "homepage": "https://github.com/GabriellyPompeo/exercicios-modulo-21#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "devDependencies": {
+    "sinon": "^17.0.1"
+  }
+}
