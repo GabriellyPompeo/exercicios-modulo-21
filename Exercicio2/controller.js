@@ -1,11 +1,11 @@
-const { Database } = require("./database")
+const { Database } = require('./database')
 
 class UsuariosController {
     constructor(Database) {
         this.Database = Database;
     }
     getAll(){
-        return this.Database.findAll('usuarios');
+        return this.Database.findAll('usuarios')
     }
 }
 
